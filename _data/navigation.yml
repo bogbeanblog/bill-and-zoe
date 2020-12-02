@@ -3,11 +3,14 @@ nav:
     section: services
 
   - title: "Contact"
-    section: portfolio
-    
-  - title: "Contact"
-    section: timeline
+    section: portfolio    
 
   - title: "Portfolio"
-    section: portfolio
+    section: portfolio    
+    
+ - title: "Testimonials"
+    section: portfolio      
+  
+  - title: "About"
+    section: timeline
 
