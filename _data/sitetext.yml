@@ -10,12 +10,12 @@ services:
     section: services
     list:
       - title: "Handyman"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Shelves to zzzzzzz, from xxxxx to xxxxx. But we dn't do plumbing."
       - title: "Decorating"
-        desc: "Stay in your house overnight and most of the day."
+        desc: "We specialise in minimising disruption. We protect your furniture in place so you don't need to clear the room."
         #icon: fab fa-markdown
       - title: "House Check/Sit"
-        desc: "Stay in your house overnight and most of the day. Or check your house regularly while you are away."
+        desc: "We'll keep an eye on your house while you're away. Or we'll stay at night and most of the day."
         #icon: fas fa-laptop       
      
 portfolio:
