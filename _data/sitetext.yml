@@ -12,10 +12,13 @@ services:
       - title: "Handyman"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       - title: "House Check"
-        desc: "Make regular on your house while you are away."
+        desc: "Regular checks on your house while you are away."
         #icon: fas fa-laptop       
       - title: "House Sit"
-        desc: "Sleep in your house overnight and be there most of the day. "
+        desc: "Stay in your house overnight and most of the day. "
+        #icon: fab fa-markdown
+      - title: "Decorating
+        desc: "Stay in your house overnight and most of the day. "
         #icon: fab fa-markdown
 
 portfolio:
