@@ -11,13 +11,13 @@ services:
     list:
       - title: "Handyman"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "House Check"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
+        #icon: fas fa-laptop       
       - title: "House Sit"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        #icon: fab fa-markdown
 
 portfolio:
     title: "Portfolio"
