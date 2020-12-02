@@ -1,6 +1,6 @@
 header:
-    title: Isle of Wight Local
-    text: PROPERTY SERVICES
+    title: Bill & Zoe's Property Services
+    #text: PROPERTY SERVICES
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
