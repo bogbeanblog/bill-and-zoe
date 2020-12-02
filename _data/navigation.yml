@@ -2,15 +2,12 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Portfolio"
+  - title: "Contact"
     section: portfolio
     
-  - title: "About"
+  - title: "Contact"
     section: timeline
 
-  - title: "Team"
-    section: team
-
-  - title: "Contact"
-    section: contact
+  - title: "Portfolio"
+    section: portfolio
 
