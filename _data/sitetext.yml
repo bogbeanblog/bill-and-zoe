@@ -11,11 +11,11 @@ services:
     list:
       - title: "Handyman"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      - title: "House Check or Sit"
+      - title: "House Check/Sit"
         desc: "Stay in your house overnight and most of the day. Or check your house regularly while you are away."
         #icon: fas fa-laptop       
-      - title: "Decorating
-        desc: "Stay in your house overnight and most of the day. "
+      - title: "Decorating"
+        desc: "Stay in your house overnight and most of the day."
         #icon: fab fa-markdown
 
 portfolio:
