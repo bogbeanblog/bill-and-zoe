@@ -13,10 +13,10 @@ services:
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "House Check"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Regular on your house while you are away."
         #icon: fas fa-laptop       
       - title: "House Sit"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Sleep in your house overnight and be there most of the day. "
         #icon: fab fa-markdown
 
 portfolio:
