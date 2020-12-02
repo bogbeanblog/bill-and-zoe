@@ -1,6 +1,6 @@
 header:
-    title: BILL & ZOE'S PROPERTY SERVICES
-    #text: ''
+    title: Bill & Zoe's Property Jobs
+    text: ''
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
